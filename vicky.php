@@ -1,1 +1,3 @@
-vicky.php
+<?php
+echo "WEHHH";
+?>

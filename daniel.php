@@ -1,1 +1,4 @@
-daniel.php
+<?php 
+echo "cahyoooo";
+
+ ?>
