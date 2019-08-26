@@ -1,1 +1,3 @@
-nabila.php
+<?php
+echo "yuk pulang ehehe~";
+?>
