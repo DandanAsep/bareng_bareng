@@ -1,1 +1,3 @@
-cahyo.php
+<?php 
+echo "test";
+ ?>
