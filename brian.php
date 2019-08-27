@@ -1,3 +1,3 @@
 <?php 
-echo "Brian Ganteng";
+echo "Brian Ganteng Bingit";
  ?>
